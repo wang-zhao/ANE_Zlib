@@ -1,0 +1,9 @@
+LIBRARY	"wmtcZipLib"
+
+EXPORTS
+    ExtensionInitializer
+    ExtensionFinalizer
+    
+    Zip
+    UnZip
+

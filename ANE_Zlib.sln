@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ANE_Zlib", "ANE_Zlib\ANE_Zlib.vcproj", "{E94DDF5D-36E1-4707-B349-A7EBEC5D8688}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test", "test\test.vcproj", "{DA878970-FE0C-47ED-AE41-8244DD1CFC7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E94DDF5D-36E1-4707-B349-A7EBEC5D8688}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E94DDF5D-36E1-4707-B349-A7EBEC5D8688}.Debug|Win32.Build.0 = Debug|Win32
+		{E94DDF5D-36E1-4707-B349-A7EBEC5D8688}.Release|Win32.ActiveCfg = Release|Win32
+		{E94DDF5D-36E1-4707-B349-A7EBEC5D8688}.Release|Win32.Build.0 = Release|Win32
+		{DA878970-FE0C-47ED-AE41-8244DD1CFC7C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DA878970-FE0C-47ED-AE41-8244DD1CFC7C}.Debug|Win32.Build.0 = Debug|Win32
+		{DA878970-FE0C-47ED-AE41-8244DD1CFC7C}.Release|Win32.ActiveCfg = Release|Win32
+		{DA878970-FE0C-47ED-AE41-8244DD1CFC7C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
